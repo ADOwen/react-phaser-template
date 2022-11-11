@@ -1,6 +1,0 @@
-.gameContainer {
-  width: 80vw;
-  height: calc(100vh - 56px);
-  display:flex;
-  justify-content: center;
-} 

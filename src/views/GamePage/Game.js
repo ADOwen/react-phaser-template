@@ -1,9 +1,9 @@
 import { useEffect } from 'react';
 import { game } from '../../game/game';
-import './ArcadePage.styles.css'
+import './GamePage.styles.css'
 
 
-const ArcadePage = () => {
+const Game = () => {
 
   useEffect(()=>{
     return game;
@@ -16,4 +16,4 @@ const ArcadePage = () => {
   )
 }
 
-export default ArcadePage;
+export default Game;

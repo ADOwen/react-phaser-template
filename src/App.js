@@ -1,4 +1,4 @@
-import Arcade from './views/arcadePage/ArcadePage';
+import Game from './views/GamePage/Game';
 import './App.css'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
   return (
 
     <div className='main'>
-      <Arcade/>
+      <Game/>
     </div>
   );
 };
